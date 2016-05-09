@@ -23,3 +23,6 @@
 
 - [Ten Belles](https://fr-fr.facebook.com/TenBelles): 10 Rue de la Grange aux Belles, 75010 Paris - 01 42 40 90 78
 <br/>:coffee: Belleville
+
+- [Holybelly](holybel.ly): 19 Rue Lucien Sampaix, 75000 Paris
+<br/>:coffee: Belleville
